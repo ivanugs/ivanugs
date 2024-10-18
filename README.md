@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Fullstack (and a beginner designer) developer from Mexico</h3>
+<h3 align="center">A passionate beginner Fullstack developer from Mexico</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,3 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/MR-Addict.md
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Jas-Script.md
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/BrantLauro.md
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/JayantGoel001.md
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/AbhigyanTrips.md
