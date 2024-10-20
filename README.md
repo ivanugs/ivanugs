@@ -34,25 +34,20 @@
   </a>
 </p>
 
-##
+<h3 align="center">My Statistics:</h3>
 
-And here are some interesting grphs:
-
-<!-- grph -->
 <div align="left">
   <div>
     <img
       height="150"
       alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanugs&theme=vue"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanugs&theme=tokyonight"
     />
     <img
       height="150"
       alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivanugs&theme=vue"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivanugs&theme=tokyonight"
     />
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanugs&theme=vue" alt="profile detail" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanugs&theme=tokyonight" alt="profile detail" />
 </div>
-
-##
