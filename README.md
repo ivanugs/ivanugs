@@ -34,7 +34,25 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ivanugs&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanugs&theme=react&layout=compact" />
-</p>
+##
+
+And here are some interesting grphs:
+
+<!-- grph -->
+<div align="left">
+  <div>
+    <img
+      height="150"
+      alt="stats graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanugs&theme=vue"
+    />
+    <img
+      height="150"
+      alt="languages graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivanugs&theme=vue"
+    />
+  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanugs&theme=vue" alt="profile detail" />
+</div>
+
+##
